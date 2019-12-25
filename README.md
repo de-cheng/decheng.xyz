@@ -6,6 +6,6 @@
 ## 区块链知识
 > * [区块链小白书](https://blockchainbook.top)
 
-## [艺术作品](https://decheng.art)
-> * 素描
-> * UI设计
+## 艺术作品
+> * [素描](https://decheng.art)
+> * 摄影
