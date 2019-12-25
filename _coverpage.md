@@ -1,1 +1,1 @@
-![](images/decheng-photo.jpg)
+![](images/decheng-photo.png)
