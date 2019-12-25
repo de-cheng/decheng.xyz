@@ -1,0 +1,1 @@
+![](images/decheng-photo.jpg)
