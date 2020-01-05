@@ -15,7 +15,7 @@
 
 > * [区块链小白书](https://blockchainbook.top)
 
-> * [定投践行群入群指南](https://github.com/de-cheng/decheng.xyz/boxgroup.md)
+> * [定投践行群入群指南](https://decheng.xyz/boxgroup)
 
 > * ……
 
