@@ -1,2 +1,2 @@
 
-![](/images/decheng-photo-in.png)
+![](/images/decheng-photo-out.png)
