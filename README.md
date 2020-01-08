@@ -1,7 +1,7 @@
 ![](/images/decheng-photo-out.png)
 
 # 陈德成作品集
-—— 你看到的是一个正在成长的德成
+—— 你看到的是一个正在成长的德成。（内容有待更新完善）
 
 ## 德成的经历
 
@@ -11,15 +11,16 @@
 
 >> * [第一年](https://w3c.group/c/1575814615988447)
 
-## 区块链
+## 区块链相关
 
-> * [区块链小白书](https://blockchainbook.top)
+> * [区块链小白书（李笑来原著 | 陈德成fork版）](https://blockchainbook.top)
 
-> * [定投践行群入群指南](https://decheng.xyz/boxgroup)
+> * [为什么普通人错过“定投践行群”的损失非常大？](https://decheng.xyz/boxgroup)
 
 > * ……
 
 ## 艺术作品
 
 > * 素描(待补充，暂未开放)
+
 > * 摄影(待补充，暂未开放)
