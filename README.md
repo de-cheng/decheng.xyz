@@ -13,7 +13,7 @@
 
 > * [区块链小白书（李笑来原著 | 陈德成fork版）](https://blockchainbook.top)
 
-> * [为什么普通人错过“定投践行群”的损失可能无限大？](https://decheng.xyz/boxgroup)
+> * [为什么普通人错过“定投践行群”的损失可能无限大？](/boxgroup/)
 
 > * ……
 
