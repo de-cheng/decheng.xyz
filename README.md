@@ -19,6 +19,6 @@
 
 ## 艺术作品
 
-> * [素描](https://decheng.art)
+> * [素描](https://decheng.xyz/decheng.art)
 
 > * 摄影(待补充，暂未开放)
