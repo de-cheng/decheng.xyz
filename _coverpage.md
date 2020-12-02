@@ -1,2 +1,2 @@
 
-![](/images/superpower.png)
+![](/images/superpower.jpg)
