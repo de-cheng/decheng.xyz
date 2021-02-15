@@ -93,7 +93,7 @@ BOX定投践行群，作用之一就是用来帮助读者践行书里面的策�
 
 ### 新生大讲堂APP(学习APP)
 
-使用浏览器打开<https://firesbox.com/#/>
+使用浏览器打开<https://www.firesbox.com/app/>
 
 ## 找到BOX定投践行群入口
 
