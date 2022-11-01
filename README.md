@@ -186,13 +186,8 @@
 
 > * [区块链小白书（李笑来原著 | 陈德成fork版）](https://blockchainbook.top)
 
-> * [为什么你要拥有BTC(比特币)？如何获取你人生的第一笔免费的比特币？](https://blockchainbook.top/freebtc)
+> * 强烈推荐使用[水龙头APP](https://app.exinearn.com/invite/MXMYNX?source=link)获取免费的比特币
 
-> * [为什么普通人错过“定投践行群”的损失可能无限大？](/boxgroup/)
-
-> * [所有人都能参与的“递增BTC”分红，至少0.333BTC](https://w3c.group/c/1580384382167761)
-
-> * ……
 
 ![](images/decheng-photo-out.png)
 
