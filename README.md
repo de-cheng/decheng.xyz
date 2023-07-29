@@ -49,11 +49,13 @@
 
 传送门：Bilibili [@麻雀喳喳野行记](https://b23.tv/lbbqBD)
 
-+ 人与社会：李笑来/“丁元英”  
++ 人与社会：[谭乔](https://space.bilibili.com/330415548?spm_id_from=333.337.0.0)，[李笑来](https://lixiaolai.com)
 
-明白人，博学多才，自身已财富自由，还能带领普通人赚钱致富  
+明白人，博学多才。
 
-传送门：[lixiaolai.com](https://lixiaolai.com)
+以前还有“丁元英” ，2023年把他去除了，对《遥远的救世主》更多视角审视后，对丁元英无感了。
+
+
 
 + 人与艺术：
 
