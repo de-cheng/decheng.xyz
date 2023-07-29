@@ -61,11 +61,13 @@
 
 以超凡的艺术表达能力，抚慰人们的灵魂  
 
-传送门：YouTube 或 Bilibili 搜 “reaction Hua chenyu”    
+传送门：[华晨宇的小海翻宇航员](https://space.bilibili.com/67199308?spm_id_from=333.337.0.0)；YouTube 或 Bilibili 搜 “reaction Hua chenyu”
 
-+ 人与宇宙：伊隆·马斯克  
++ 人与宇宙：刘慈欣，中国航天（[国家航天局](https://www.cnsa.gov.cn/index.html)）
 
-用实际行动和成绩推动新能源的发展，创办私企降低航天成本  
+之前是伊隆·马斯克，理由是：用实际行动和成绩推动新能源的发展，创办私企降低航天成本，但后来对马斯克更多更深入的了解后，对他没有那么喜欢了。
+
+2023年更新为刘慈欣，主要喜欢他的科幻作品，比如三体。
 
 传送门：维基百科：[【伊隆·马斯克】](https://zh.wikipedia.org/wiki/伊隆·马斯克)  
 
