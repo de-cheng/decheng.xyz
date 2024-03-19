@@ -63,11 +63,7 @@
 
 传送门：[华晨宇的小海翻宇航员](https://space.bilibili.com/67199308?spm_id_from=333.337.0.0)；YouTube 或 Bilibili 搜 “reaction Hua chenyu”
 
-—— 斯琴格日乐
 
-演唱各族民歌，嗓音清亮动听，还能作词作曲，创作的歌曲很不错。
-
-传送门：网易云[@斯琴格日乐](https://music.163.com/#/artist?id=9287)
 
 + 人与宇宙：
 
