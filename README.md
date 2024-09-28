@@ -48,7 +48,7 @@
 一个有现代社会工作和生活的女性，同时拥有回归原始丛林野外生存100天的能力（即便还差几天达成100天挑战）。  
 
 传送门：Bilibili [@麻雀喳喳野行记](https://space.bilibili.com/120122306?spm_id_from=333.337.0.0)
-<center><img src=images/maquezhazha.PNG width=300></center>
+<center><img src=images/maquezhazha.PNG width=60%></center>
 
 ### 人与社会
 [谭乔](https://space.bilibili.com/330415548?spm_id_from=333.337.0.0)，[李笑来](https://lixiaolai.com)
@@ -84,7 +84,7 @@
 
 2020年10月到11月，玩起了王者荣耀，历时32天，全程单排，从倔强青铜到了最强王者。
 
-<center><img src=images/wangzhe.jpg width=300></center>
+<center><img src=images/wangzhe.jpg width=60%></center>
 
 > 这是一个新号，开始时昵称叫“欠揍的好人”，现在改成“decheng.xyz”了
 
@@ -216,6 +216,8 @@
 欢迎打赏，或付费咨询（100元/小时）
 咨询内容包括：投资策略、自学心得、其他任何你想聊的
 <center class="half">
-<img src="images/PaymentCode_Weixin.jpg" height=300>
-<img src="images/PaymentCode_MixPay.jpg" height=300>
+<img src="images/PaymentCode_Weixin.jpg" height=350>
+<img src="" height=300>
+<img src="" height=300>
+<img src="images/PaymentCode_MixPay.jpg" height=350>
 </center>
