@@ -207,3 +207,12 @@
 ## 陈德成语录
 
 + 每天做一点有积累价值的事
+
+-----
+
+欢迎打赏，或付费咨询（100元/小时）
+咨询内容包括：投资策略、自学心得、其他任何你想聊的
+
+<img src="images/PaymentCode_Weixin.jpg" width=300>
+
+<img src="images/PaymentCode_MixPay.jpg" width=300>
