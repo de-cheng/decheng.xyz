@@ -51,7 +51,7 @@
 <center><img src=images/maquezhazha.PNG width=60%></center>
 
 ### 人与社会
-[谭乔](https://space.bilibili.com/330415548?spm_id_from=333.337.0.0)，[李笑来](https://lixiaolai.com)
+于东来，[谭乔](https://space.bilibili.com/330415548?spm_id_from=333.337.0.0)
 
 明白人，博学多才。
 
